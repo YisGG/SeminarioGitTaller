@@ -1,6 +1,6 @@
 public class Hola{
 
 	public static void main (String[] args){
-		System.out.println("Hola Mundo!\n Que tal estais?");
+		System.out.println("Hola Mundo!");
 	}
 }
